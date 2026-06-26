@@ -1,0 +1,13 @@
+.con {
+    display: flex;
+    height: 75vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(
+      135deg,
+      #c2e4f4,
+      #80cced,
+      #0284c7
+    );
+}
